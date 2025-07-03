@@ -1,14 +1,14 @@
 # **Data Science Internship at Prodigy Infotech**
 
-# **Task 1 Submission:**
+## **Task 1 Submission:**
 
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I performed Exploratory Data Analysis (EDA) on the 🌍 world_population_dataset, focusing on creating insightful visualizations to understand data distributions.
 
-# Dataset Description
+## Dataset Description
 ____________
 The world_population_dataset contains global population data 🌎 from 2001 to 2022, offering insights into population changes across different countries over time.
 
-# Tools and Libraries Used
+## Tools and Libraries Used
 __________________
  * Jupyter Notebook
 

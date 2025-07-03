@@ -2,8 +2,6 @@
 
 # **Task 1 Submission: Exploratory Data Analysis (EDA)**
 
-# Introduction
-____________
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I performed Exploratory Data Analysis (EDA) on the 🌍 world_population_dataset, focusing on creating insightful visualizations to understand data distributions.
 
 # Dataset Description

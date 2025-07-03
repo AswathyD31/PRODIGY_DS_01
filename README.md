@@ -1,38 +1,43 @@
-🚀 # **Data Science Internship at Prodigy Infotech**
+# **Data Science Internship at Prodigy Infotech**
 
-📊 # **Task 1 Submission: Exploratory Data Analysis (EDA)**
+# **Task 1 Submission: Exploratory Data Analysis (EDA)**
 
-🔍 # Introduction
+# Introduction
+____________
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I performed Exploratory Data Analysis (EDA) on the 🌍 world_population_dataset, focusing on creating insightful visualizations to understand data distributions.
 
-📂 # Dataset Description
+# Dataset Description
+____________
 The world_population_dataset contains global population data 🌎 from 2001 to 2022, offering insights into population changes across different countries over time.
 
-🛠️ # Tools and Libraries Used
-🐍 Jupyter Notebook
+# Tools and Libraries Used
+__________________
+ Jupyter Notebook
 
-📊 Pandas for data manipulation
+Pandas for data manipulation
 
-➕ NumPy for numerical operations
+NumPy for numerical operations
 
-🎨 Matplotlib & Seaborn for creating visualizations
+Matplotlib & Seaborn for creating visualizations
 
-🔬 # Exploratory Data Analysis (EDA) Process
+# Exploratory Data Analysis (EDA) Process
+________________
 Key steps followed during the EDA process:
 
-🧹 Data Cleaning:
+Data Cleaning:
 
 Checked for and handled missing values, duplicate entries, and outliers to ensure a clean dataset.
 
-📈 Data Visualization:
+ Data Visualization:
 
 Created various visualizations to uncover patterns in the data, including:
 
-📊 Bar charts to compare population across countries.
+Bar charts to compare population across countries.
 
-🟪 Stacked charts to show distribution trends over time and categories.
+Stacked charts to show distribution trends over time and categories.
 
-✅ # Conclusion
+# Conclusion
+____________
 This EDA process provided meaningful insights 🌟 into population distributions and trends, laying a strong foundation for deeper data exploration and future machine learning tasks.
 
 🙏 Thank you for reviewing my submission!

@@ -22,15 +22,15 @@ __________________
 ________________
 Key steps followed during the EDA process:
 
-* **Data Cleaning:**
+**1. Data Cleaning:**
 
 - Checked for and handled missing values, duplicate entries, and outliers to ensure a clean dataset.
 
- * **Data Visualization:**
+**2. Data Visualization:**
 
 - Created various visualizations to uncover patterns in the data, including:
 
-* **Bar charts to compare population across countries.**
+**3. Bar charts to compare population across countries.**
 
 - Stacked charts to show distribution trends over time and categories.
 
